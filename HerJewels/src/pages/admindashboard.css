@@ -1,0 +1,25 @@
+.logo {
+    height: 32px;
+    margin: 16px;
+    color: white;
+    font-size: 18px;
+}
+
+.site-layout-sub-header-background {
+    background-color: white;
+    padding: 0;
+}
+
+.site-layout-background {
+    background: #fff;
+    padding: 24;
+    margin: 0;
+    min-Height: 360; 
+}
+
+@media (max-width: 768px) {
+    .ant-layout-sider {
+        display: none;
+        margin: 0;
+    }
+}

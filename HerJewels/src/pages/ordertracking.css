@@ -1,0 +1,28 @@
+.order-tracking-container {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.order-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.order-table th,
+.order-table td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.order-table th {
+    background-color: #f2f2f2;
+}
+
+.order-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.order-table tr:hover {
+    background-color: #e9e9e9;
+}

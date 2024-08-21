@@ -1,0 +1,106 @@
+.admin-bg{
+    background-color: white;
+    height: 100vh;
+    color: black;
+    font-family: "Poppins", sans-serif;
+}
+
+.button-holder{
+    align-items: center;
+    display: flex;
+    width: 400px;
+    flex-direction: column;
+    background-color: lightgrey;
+    gap: 20px;
+    padding-top: 150px;
+
+
+}
+
+.admin-button{
+    width: 350px;
+    height: 90px;
+    font-family: "Poppins", sans-serif;
+    font-size: 26px;
+    background-color: red;
+    color: white;
+}
+
+.admin-button:hover{
+    background-color: white;
+    color: black;
+    width: 360px;
+    height: 100px;
+    transition: all 0.2s ease-in-out;
+}
+
+.addupdel-bg{
+    width: 900px;
+    background-color: lightgrey;
+}
+
+
+.holder{
+    padding-top: 100px;
+    padding-left: 50px;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    height: 80%;
+
+}
+
+.add-holder{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-left: 90px;
+    margin-top: 70px;
+    gap: 20px;
+}
+
+.name-div{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.pri-cat{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+
+}
+
+.des-div{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.add-two-but{
+
+}
+
+.add-pro-btn{
+    background-color: rgb(217, 211, 230);
+    margin-left: 590px;
+    height: 70px;
+    width: 190px;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    border-color: black;
+
+}
+
+.del-pro-btn{
+    background-color: red;
+    margin-left: 300px;
+    margin-top: 90px;
+    height: 70px;
+    width: 190px;
+    font-family: "Poppins", sans-serif;
+    font-size: 22px;
+    border-color: black;
+
+}
