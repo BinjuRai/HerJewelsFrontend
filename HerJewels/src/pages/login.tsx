@@ -135,7 +135,7 @@ const LoginForm: React.FC = () => {
                                         </div>
                                         <div className="group">
                                             <label htmlFor="mobileNo" className="label">
-                                                Mobile Number
+                                                Mobile No
                                             </label>
                                             <input
                                                 id="mobileNo"
